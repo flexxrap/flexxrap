@@ -37,8 +37,7 @@
 ###
 
 <div align="center">
-  <!-- Змейка (Внимание: для работы змейки нужно настроить GitHub Action!) -->
-  <img src="https://github-readme-snake.vercel.app/api?username=YOUR_USERNAME&bg_color=1c1917&color_snake=00d9ff&color_dots=203038" alt="snake"/>
+  <img src="https://github-readme-snake.vercel.app/api?username=flexxrap&bg_color=1c1917&color_snake=00d9ff&color_dots=203038" alt="snake"/>
 </div>
 
 ###
@@ -76,14 +75,12 @@
 <h3 align="left">🔥 Моя статистика:</h3>
 
 <div align="center">
-  <!-- Статистика Github (Тема Radical - неон/киберпанк) -->
   <a href="https://github.com/flexxrap">
     <img src="https://github-readme-stats.vercel.app/api?username=flexxrap&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
   </a>
   
-  <!-- График активности (Streak) -->
   <a href="https://github.com/flexxrap">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flexxrap&theme=radical&hide_border=true" alt="streak graph" />
   </a>
 </div>
 
