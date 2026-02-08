@@ -8,10 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
     permissions:
       contents: write
-    
     steps:
       - uses: actions/checkout@v3
 
@@ -24,7 +22,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
-        uses: crazy-max/gh-action-github-pages@v3.1.0
+        # ИСПРАВЛЕНО: ghaction-github-pages (была опечатка)
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
