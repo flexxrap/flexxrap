@@ -22,7 +22,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
-        # ИСПРАВЛЕНО: ghaction-github-pages (была опечатка)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
