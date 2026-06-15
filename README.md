@@ -24,7 +24,7 @@ backend (Python/FastAPI) или DevOps, где можно учиться на р
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dnsk9128)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifimaks@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxkrugley@gmail.com)
 
 ## 🚀 Проекты
 
