@@ -2,10 +2,7 @@
 
 ### Backend / DevOps Engineer · Python · FastAPI · Docker · CI/CD · PostgreSQL
 
-Я из Бреста, Беларусь, заканчиваю школу в 2027 году и параллельно прокачиваю
-backend и DevOps. Пишу сервисы на Python/FastAPI с PostgreSQL, упаковываю их в
-Docker и настраиваю CI/CD на GitHub Actions. Изучаю Kubernetes, Terraform и
-Ansible для автоматизации инфраструктуры. Ищу junior/стажёрскую позицию в
+Я из Бреста, Беларусь, прокачиваю backend и DevOps. Пишу сервисы на Python/FastAPI с PostgreSQL, упаковываю их в Docker и настраиваю CI/CD на GitHub Actions. Изучаю Kubernetes, Terraform и Ansible для автоматизации инфраструктуры. Ищу junior позицию в
 backend (Python/FastAPI) или DevOps, где можно учиться на реальных задачах.
 
 ## 🛠 Стек
